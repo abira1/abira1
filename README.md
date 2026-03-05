@@ -1,66 +1,64 @@
-# Project Title
 
-A brief description of your amazing project.
+<div align="center">
 
-![Project Banner](https://picsum.photos/800/400)
+# Md. Nafis Fuad Abir
 
-<p align="center">
-  ![License](https://img.shields.io/badge/License-MIT-blue) ![Version](https://img.shields.io/badge/Version-1.0.0-green)
-</p>
+*Full-Stack Developer & Creative Technologist · Founder of [Toiral](https://toiral-development.web.app) · Dhaka, Bangladesh*
 
-[View Demo](#)
+</div>
 
-> This is a game changer for my workflow!
-> 
-> — **Happy User**
-
-> [!NOTE]
-> Pro tip: Use this block for important notes.
-
-> [!WARNING]
-> Be careful when configuring this setting.
-
-```bash
-npm install md-studio
-```
-
-| Feature | Status |
-| --- | --- |
-| Visual Editor | ✅ |
-| Export | ✅ |
+I'm Nafis — a passionate web developer, writer, graphics designer, UI/UX designer, and problem solver. I create digital experiences that combine beauty with functionality.
 
 ---
 
-- [x] Setup project
-- [ ] Add features
+### 🛠 Tech Stack
 
-<p align="center">
-  **Stars**: 1.2k | **Downloads**: 50k
-</p>
+![React](https://img.shields.io/badge/React-18181b?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-18181b?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-18181b?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-18181b?style=flat&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-18181b?style=flat&logo=nodedotjs&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-18181b?style=flat&logo=figma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181b?style=flat&logo=postgresql&logoColor=white)
 
-<table>
-<tr>
-<td>
+---
 
-Left content
+### 📊 Stats
 
-</td>
-<td>
+<div align="center">
 
-Right content
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nafisfuadabir&show_icons=true&theme=dark&bg_color=09090b&hide_border=true&title_color=fff&text_color=a1a1aa&icon_color=a1a1aa)
 
-</td>
-</tr>
-</table>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nafisfuadabir&theme=dark&background=09090b&border=00000000&ring=ffffff&fire=ffffff&currStreakLabel=a1a1aa&sideLabels=a1a1aa&currStreakNum=ffffff&sideNums=ffffff&dates=71717a)
 
-**2024**: Initial Release  
-**2025**: V2 Launch
+</div>
 
-<details>
-<summary>How to use?</summary>
+---
 
-Just drag and drop!
+### 🎯 What I Do
 
-</details>
+- **Web Development** — Building modern, performant web applications with React & Next.js
+- **UI/UX Design** — Crafting intuitive interfaces and seamless user experiences
+- **Graphic Design** — Creating visual identities and digital artwork
+- **Building Startups** — Turning ideas into products through Toiral
+- **Problem Solving** — Breaking down complex challenges into elegant solutions
+- **Writing** — Words that heal, connect, and transform
 
-<div align="center">Custom HTML</div>
+---
+
+### 📬 Connect
+
+[![Email](https://img.shields.io/badge/Email-18181b?style=flat&logo=gmail&logoColor=white)](mailto:nafisfuadabir@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-18181b?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/8801304082304)
+[![GitHub](https://img.shields.io/badge/GitHub-18181b?style=flat&logo=github&logoColor=white)](https://github.com/nafisfuadabir)
+[![Facebook](https://img.shields.io/badge/Facebook-18181b?style=flat&logo=facebook&logoColor=white)](https://facebook.com/nafisfuadabir)
+[![Instagram](https://img.shields.io/badge/Instagram-18181b?style=flat&logo=instagram&logoColor=white)](https://instagram.com/nafisfuadabir)
+
+---
+
+<div align="center">
+
+*I believe words carry the power to heal, connect, and transform.*
+
+</div>
+
